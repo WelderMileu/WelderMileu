@@ -1,8 +1,5 @@
 ### Hi Welder Mileu 👋
 
-- 🔭 I am currently working as a Full-Stack.
-- 🌱 I’m currently learning english.
-
  <div>
   <a href="https://github.com/WelderMileu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WelderMileu&show_icons=true&theme=react&include_all_commits=true&  count_private=true"/>
